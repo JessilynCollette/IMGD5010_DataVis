@@ -8,7 +8,7 @@ This code creates a spherical visualization of JSON data about Animal Crossing c
 https://editor.p5js.org/JessilynCollette/sketches/F6QdWyNnf
 
 ## Goal / Inspiration
-My goalk was to create a type of artwork from visualizing data. i was inspired by visualizations from Michelle Chandra: https://www.michellechandra.com/category/data-visualization/page/2/
+My goal was to create a type of artwork from visualizing data. I was inspired by visualizations from Michelle Chandra: https://www.michellechandra.com/category/data-visualization/page/2/
 
 ## Data
 Dataset: https://www.kaggle.com/datasets/nookipedia/animal-crossing-series-villagers
