@@ -7,6 +7,9 @@ This code creates a spherical visualization of JSON data about Animal Crossing c
 ## Link to p5.js editor
 https://editor.p5js.org/JessilynCollette/sketches/F6QdWyNnf
 
+## Goal / Inspiration
+My goalk was to create a type of artwork from visualizing data. i was inspired by visualizations from Michelle Chandra: https://www.michellechandra.com/category/data-visualization/page/2/
+
 
 ## Code
 ``` p5.js
